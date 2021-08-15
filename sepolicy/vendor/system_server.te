@@ -1,5 +1,5 @@
 # Allow system_server to set camera_prop
-get_prop(system_server, vendor_camera_prop)
+get_prop(system_server, vendor_persist_camera_prop)
 get_prop(system_server, camera_prop)
 
 # Allow system_server to read fastcharge node
