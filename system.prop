@@ -171,7 +171,6 @@ ro.vendor.qti.sys.fw.bservice_enable=true
 ro.vendor.qti.va_aosp.support=1
 
 # Radio
-DEVICE_PROVISIONED=1
 keyguard.no_require_sim=true
 persist.data.df.agg.dl_pkt=10
 persist.data.df.agg.dl_size=4096
