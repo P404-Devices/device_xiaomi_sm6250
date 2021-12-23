@@ -286,6 +286,7 @@ PRODUCT_PACKAGES += \
 TARGET_COMMON_QTI_COMPONENTS := \
     adreno \
     bt \
+    nq-nfc \
     perf \
     telephony
 
